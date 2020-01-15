@@ -1,0 +1,16 @@
+{
+  "name": "@jedwards1211/eslint-config-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@jedwards1211/eslint-config": "^2.0.0",
+    "@typescript-eslint/eslint-plugin": "^2.6.1",
+    "@typescript-eslint/parser": "^2.6.1",
+    "@typescript-eslint/typescript-estree": "^2.6.1"
+  },
+  "devDependencies": {},
+  "description": "my own eslint config for typescript",
+  "repository": "https://github.com/jedwards1211/eslint-config-typescript",
+  "author": "Andy Edwards"
+}
